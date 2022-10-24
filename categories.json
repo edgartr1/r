@@ -90,231 +90,6 @@
     "Link3": "https://www.gofoodservice.com/c/refrigeration-parts-accessories"
   },
   {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Dinnerware",
-    "Link2": "https://www.gofoodservice.com/c/dinnerware",
-    "Level3": "China Dinnerware",
-    "Link3": "https://www.gofoodservice.com/c/china-dinnerware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Dinnerware",
-    "Link2": "https://www.gofoodservice.com/c/dinnerware",
-    "Level3": "Melamine Dinnerware",
-    "Link3": "https://www.gofoodservice.com/c/melamine-dinnerware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Dinnerware",
-    "Link2": "https://www.gofoodservice.com/c/dinnerware",
-    "Level3": "Glass Dinnerware",
-    "Link3": "https://www.gofoodservice.com/c/glass-dinnerware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Dinnerware",
-    "Link2": "https://www.gofoodservice.com/c/dinnerware",
-    "Level3": "Metal Dinnerware",
-    "Link3": "https://www.gofoodservice.com/c/metal-dinnerware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Dinnerware",
-    "Link2": "https://www.gofoodservice.com/c/dinnerware",
-    "Level3": "Enamel Dinnerware",
-    "Link3": "https://www.gofoodservice.com/c/enamelware-dinnerware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Dinnerware",
-    "Link2": "https://www.gofoodservice.com/c/dinnerware",
-    "Level3": "Plastic Dinnerware",
-    "Link3": "https://www.gofoodservice.com/c/plastic-dinnerware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Dinnerware",
-    "Link2": "https://www.gofoodservice.com/c/dinnerware",
-    "Level3": "Disposable Dinnerware",
-    "Link3": "https://www.gofoodservice.com/c/disposable-dinnerware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Flatware",
-    "Link2": "https://www.gofoodservice.com/c/flatware",
-    "Level3": "Flatware Forks",
-    "Link3": "https://www.gofoodservice.com/c/flatware-forks"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Flatware",
-    "Link2": "https://www.gofoodservice.com/c/flatware",
-    "Level3": "Flatware Knives",
-    "Link3": "https://www.gofoodservice.com/c/flatware-knives"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Flatware",
-    "Link2": "https://www.gofoodservice.com/c/flatware",
-    "Level3": "Flatware Spoons",
-    "Link3": "https://www.gofoodservice.com/c/flatware-spoons"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Flatware",
-    "Link2": "https://www.gofoodservice.com/c/flatware",
-    "Level3": "Disposable Flatware",
-    "Link3": "https://www.gofoodservice.com/c/disposable-flatware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Flatware",
-    "Link2": "https://www.gofoodservice.com/c/flatware",
-    "Level3": "Disposable Chopsticks",
-    "Link3": "https://www.gofoodservice.com/c/disposable-chopsticks"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Flatware",
-    "Link2": "https://www.gofoodservice.com/c/flatware",
-    "Level3": "Disposable Utensil Pouches",
-    "Link3": "https://www.gofoodservice.com/c/disposable-utensil-pouches"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Servingware & Displayware",
-    "Link2": "https://www.gofoodservice.com/c/servingware-displayware",
-    "Level3": "Restaurant Candles & Table Lamps",
-    "Link3": "https://www.gofoodservice.com/c/restaurant-candles-table-lamps"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Servingware & Displayware",
-    "Link2": "https://www.gofoodservice.com/c/servingware-displayware",
-    "Level3": "Table Accessories & Chair Covers",
-    "Link3": "https://www.gofoodservice.com/c/table-chair-covers-accessories"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Servingware & Displayware",
-    "Link2": "https://www.gofoodservice.com/c/servingware-displayware",
-    "Level3": "Restaurant Signs & Boards",
-    "Link3": "https://www.gofoodservice.com/c/restaurant-signs-boards"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Beverageware & Drinkware",
-    "Link2": "https://www.gofoodservice.com/c/beverageware",
-    "Level3": "Glassware",
-    "Link3": "https://www.gofoodservice.com/c/glassware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Beverageware & Drinkware",
-    "Link2": "https://www.gofoodservice.com/c/beverageware",
-    "Level3": "Disposable Beverageware",
-    "Link3": "https://www.gofoodservice.com/c/disposable-beverageware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Beverage Service Supplies",
-    "Link2": "https://www.gofoodservice.com/c/beverage-service",
-    "Level3": "Coffee Service Supplies",
-    "Link3": "https://www.gofoodservice.com/c/coffee-service-supplies"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Beverage Service Supplies",
-    "Link2": "https://www.gofoodservice.com/c/beverage-service",
-    "Level3": "Tasting Flights",
-    "Link3": "https://www.gofoodservice.com/c/tasting-flights"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Beverage Service Supplies",
-    "Link2": "https://www.gofoodservice.com/c/beverage-service",
-    "Level3": "Beverageware & Drinkware",
-    "Link3": "https://www.gofoodservice.com/c/beverageware"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Beverage Service Supplies",
-    "Link2": "https://www.gofoodservice.com/c/beverage-service",
-    "Level3": "Beverage Dispensers",
-    "Link3": "https://www.gofoodservice.com/c/beverage-dispensers"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Beverage Service Supplies",
-    "Link2": "https://www.gofoodservice.com/c/beverage-service",
-    "Level3": "Bottle Service Supplies",
-    "Link3": "https://www.gofoodservice.com/c/bottle-service-supplies"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Tabletop Accessories",
-    "Link2": "https://www.gofoodservice.com/c/tabletop-accessories",
-    "Level3": "Table Linens",
-    "Link3": "https://www.gofoodservice.com/c/table-linens"
-  },
-  {
-    "Class": "go-exp-tabletop",
-    "Level1": "Tabletop",
-    "Link1": "https://www.gofoodservice.com/c/tabletop",
-    "Level2": "Tabletop Accessories",
-    "Link2": "https://www.gofoodservice.com/c/tabletop-accessories",
-    "Level3": "Restaurant Candles & Table Lamps",
-    "Link3": "https://www.gofoodservice.com/c/restaurant-candles-table-lamps"
-  },
-  {
     "Class": "go-exp-smallwares",
     "Level1": "Smallwares",
     "Link1": "https://www.gofoodservice.com/c/smallwares",
@@ -907,6 +682,231 @@
     "Link2": "https://www.gofoodservice.com/c/salad-bar-equipment-accessories",
     "Level3": "Heat Lamps & Strip Warmers",
     "Link3": "https://www.gofoodservice.com/c/heat-lamps-strip-warmers"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Dinnerware",
+    "Link2": "https://www.gofoodservice.com/c/dinnerware",
+    "Level3": "China Dinnerware",
+    "Link3": "https://www.gofoodservice.com/c/china-dinnerware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Dinnerware",
+    "Link2": "https://www.gofoodservice.com/c/dinnerware",
+    "Level3": "Melamine Dinnerware",
+    "Link3": "https://www.gofoodservice.com/c/melamine-dinnerware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Dinnerware",
+    "Link2": "https://www.gofoodservice.com/c/dinnerware",
+    "Level3": "Glass Dinnerware",
+    "Link3": "https://www.gofoodservice.com/c/glass-dinnerware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Dinnerware",
+    "Link2": "https://www.gofoodservice.com/c/dinnerware",
+    "Level3": "Metal Dinnerware",
+    "Link3": "https://www.gofoodservice.com/c/metal-dinnerware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Dinnerware",
+    "Link2": "https://www.gofoodservice.com/c/dinnerware",
+    "Level3": "Enamel Dinnerware",
+    "Link3": "https://www.gofoodservice.com/c/enamelware-dinnerware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Dinnerware",
+    "Link2": "https://www.gofoodservice.com/c/dinnerware",
+    "Level3": "Plastic Dinnerware",
+    "Link3": "https://www.gofoodservice.com/c/plastic-dinnerware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Dinnerware",
+    "Link2": "https://www.gofoodservice.com/c/dinnerware",
+    "Level3": "Disposable Dinnerware",
+    "Link3": "https://www.gofoodservice.com/c/disposable-dinnerware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Flatware",
+    "Link2": "https://www.gofoodservice.com/c/flatware",
+    "Level3": "Flatware Forks",
+    "Link3": "https://www.gofoodservice.com/c/flatware-forks"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Flatware",
+    "Link2": "https://www.gofoodservice.com/c/flatware",
+    "Level3": "Flatware Knives",
+    "Link3": "https://www.gofoodservice.com/c/flatware-knives"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Flatware",
+    "Link2": "https://www.gofoodservice.com/c/flatware",
+    "Level3": "Flatware Spoons",
+    "Link3": "https://www.gofoodservice.com/c/flatware-spoons"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Flatware",
+    "Link2": "https://www.gofoodservice.com/c/flatware",
+    "Level3": "Disposable Flatware",
+    "Link3": "https://www.gofoodservice.com/c/disposable-flatware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Flatware",
+    "Link2": "https://www.gofoodservice.com/c/flatware",
+    "Level3": "Disposable Chopsticks",
+    "Link3": "https://www.gofoodservice.com/c/disposable-chopsticks"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Flatware",
+    "Link2": "https://www.gofoodservice.com/c/flatware",
+    "Level3": "Disposable Utensil Pouches",
+    "Link3": "https://www.gofoodservice.com/c/disposable-utensil-pouches"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Servingware & Displayware",
+    "Link2": "https://www.gofoodservice.com/c/servingware-displayware",
+    "Level3": "Restaurant Candles & Table Lamps",
+    "Link3": "https://www.gofoodservice.com/c/restaurant-candles-table-lamps"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Servingware & Displayware",
+    "Link2": "https://www.gofoodservice.com/c/servingware-displayware",
+    "Level3": "Table Accessories & Chair Covers",
+    "Link3": "https://www.gofoodservice.com/c/table-chair-covers-accessories"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Servingware & Displayware",
+    "Link2": "https://www.gofoodservice.com/c/servingware-displayware",
+    "Level3": "Restaurant Signs & Boards",
+    "Link3": "https://www.gofoodservice.com/c/restaurant-signs-boards"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Beverageware & Drinkware",
+    "Link2": "https://www.gofoodservice.com/c/beverageware",
+    "Level3": "Glassware",
+    "Link3": "https://www.gofoodservice.com/c/glassware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Beverageware & Drinkware",
+    "Link2": "https://www.gofoodservice.com/c/beverageware",
+    "Level3": "Disposable Beverageware",
+    "Link3": "https://www.gofoodservice.com/c/disposable-beverageware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Beverage Service Supplies",
+    "Link2": "https://www.gofoodservice.com/c/beverage-service",
+    "Level3": "Coffee Service Supplies",
+    "Link3": "https://www.gofoodservice.com/c/coffee-service-supplies"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Beverage Service Supplies",
+    "Link2": "https://www.gofoodservice.com/c/beverage-service",
+    "Level3": "Tasting Flights",
+    "Link3": "https://www.gofoodservice.com/c/tasting-flights"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Beverage Service Supplies",
+    "Link2": "https://www.gofoodservice.com/c/beverage-service",
+    "Level3": "Beverageware & Drinkware",
+    "Link3": "https://www.gofoodservice.com/c/beverageware"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Beverage Service Supplies",
+    "Link2": "https://www.gofoodservice.com/c/beverage-service",
+    "Level3": "Beverage Dispensers",
+    "Link3": "https://www.gofoodservice.com/c/beverage-dispensers"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Beverage Service Supplies",
+    "Link2": "https://www.gofoodservice.com/c/beverage-service",
+    "Level3": "Bottle Service Supplies",
+    "Link3": "https://www.gofoodservice.com/c/bottle-service-supplies"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Tabletop Accessories",
+    "Link2": "https://www.gofoodservice.com/c/tabletop-accessories",
+    "Level3": "Table Linens",
+    "Link3": "https://www.gofoodservice.com/c/table-linens"
+  },
+  {
+    "Class": "go-exp-tabletop",
+    "Level1": "Tabletop",
+    "Link1": "https://www.gofoodservice.com/c/tabletop",
+    "Level2": "Tabletop Accessories",
+    "Link2": "https://www.gofoodservice.com/c/tabletop-accessories",
+    "Level3": "Restaurant Candles & Table Lamps",
+    "Link3": "https://www.gofoodservice.com/c/restaurant-candles-table-lamps"
   },
   {
     "Class": "go-exp-janitorial-supplies",
@@ -2241,8 +2241,8 @@
     "Link3": "https://www.gofoodservice.com/c/furniture-carts-trucks-and-dollies"
   },
   {
-    "Class": "go-exp-filters",
-    "Level1": "Filters",
+    "Class": "go-exp-filtration",
+    "Level1": "Filtration",
     "Link1": "https://www.gofoodservice.com/c/filters",
     "Level2": "Water Filtration",
     "Link2": "https://www.gofoodservice.com/c/water-filter-systems-cartridges",
@@ -2250,8 +2250,8 @@
     "Link3": "https://www.gofoodservice.com/c/commercial-water-filters-systems"
   },
   {
-    "Class": "go-exp-filters",
-    "Level1": "Filters",
+    "Class": "go-exp-filtration",
+    "Level1": "Filtration",
     "Link1": "https://www.gofoodservice.com/c/filters",
     "Level2": "Water Filtration",
     "Link2": "https://www.gofoodservice.com/c/water-filter-systems-cartridges",
@@ -2259,8 +2259,8 @@
     "Link3": "https://www.gofoodservice.com/c/residential-water-filter-systems-cartridges"
   },
   {
-    "Class": "go-exp-filters",
-    "Level1": "Filters",
+    "Class": "go-exp-filtration",
+    "Level1": "Filtration",
     "Link1": "https://www.gofoodservice.com/c/filters",
     "Level2": "Water Filtration",
     "Link2": "https://www.gofoodservice.com/c/water-filter-systems-cartridges",
@@ -2268,8 +2268,8 @@
     "Link3": "https://www.gofoodservice.com/c/water-softener-salt"
   },
   {
-    "Class": "go-exp-filters",
-    "Level1": "Filters",
+    "Class": "go-exp-filtration",
+    "Level1": "Filtration",
     "Link1": "https://www.gofoodservice.com/c/filters",
     "Level2": "Fryer Oil Filtration Equipment & Supplies",
     "Link2": "https://www.gofoodservice.com/c/fryer-oil-filtration-equipment-supplies",
@@ -2277,8 +2277,8 @@
     "Link3": "https://www.gofoodservice.com/c/fryer-oil-filters"
   },
   {
-    "Class": "go-exp-filters",
-    "Level1": "Filters",
+    "Class": "go-exp-filtration",
+    "Level1": "Filtration",
     "Link1": "https://www.gofoodservice.com/c/filters",
     "Level2": "Fryer Oil Filtration Equipment & Supplies",
     "Link2": "https://www.gofoodservice.com/c/fryer-oil-filtration-equipment-supplies",
@@ -2286,8 +2286,8 @@
     "Link3": "https://www.gofoodservice.com/c/fryer-oil-filter-media"
   },
   {
-    "Class": "go-exp-filters",
-    "Level1": "Filters",
+    "Class": "go-exp-filtration",
+    "Level1": "Filtration",
     "Link1": "https://www.gofoodservice.com/c/filters",
     "Level2": "Fryer Oil Filtration Equipment & Supplies",
     "Link2": "https://www.gofoodservice.com/c/fryer-oil-filtration-equipment-supplies",
@@ -2295,8 +2295,8 @@
     "Link3": "https://www.gofoodservice.com/c/fryer-oil-test-kits-devices"
   },
   {
-    "Class": "go-exp-filters",
-    "Level1": "Filters",
+    "Class": "go-exp-filtration",
+    "Level1": "Filtration",
     "Link1": "https://www.gofoodservice.com/c/filters",
     "Level2": "Fryer Oil Filtration Equipment & Supplies",
     "Link2": "https://www.gofoodservice.com/c/fryer-oil-filtration-equipment-supplies",
